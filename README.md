@@ -73,7 +73,7 @@ This project explores the emotional and sonic patterns in my personal Spotify pl
 - Top Songs by Valence
 
 **Insights** 
-- Most songs had a **low valence**, suggesting sad/reflective mood.
+- Most songs had a **moderate valence**, suggesting neutral mood.
 - Energy levels and danceability correlated moderately.
 - Happy songs were underrepresented—time to update the playlist!
 
